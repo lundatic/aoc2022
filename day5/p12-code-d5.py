@@ -49,3 +49,7 @@ for stack in stacks2.values():
 
 print("Solution P1: " + word)
 print("Solution P2: " + word2)
+
+
+
+
